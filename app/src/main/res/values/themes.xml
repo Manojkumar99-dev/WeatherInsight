@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.WeatherInsight.Splash" parent="Theme.SplashScreen">
+        <!-- Dark Blue Background -->
+        <item name="windowSplashScreenBackground">#071238</item>
+
+        <!-- Launcher Icon -->
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+
+        <!-- CRITICAL: These two lines remove the Action Bar from the splash screen -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <!-- App Theme: This tells the app which theme to switch to after the splash -->
+        <item name="postSplashScreenTheme">@style/Theme.WeatherInsight</item>
+    </style>
+
+    <!-- Ensure your main theme inherits from a NoActionBar variant -->
+    <style name="Theme.WeatherInsight" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme colors here if needed -->
+    </style>
+
+</resources>

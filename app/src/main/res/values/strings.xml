@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Weather Insight</string>
+    <string name="retry">Retry</string>
+    <string name="weather_alert">Weather Alert</string>
+    <string name="hourly_forecast">Hourly Forecast</string>
+    <string name="weekly_forecast">7-Day Forecast</string>
+    <string name="search_city">Search City</string>
+    <string name="go">Go</string>
+    <string name="search_screen">Search Screen</string>
+    <string name="loading">Loading&#8230;</string>
+
+    <!-- Navigation -->
+    <string name="weather_details">Weather Details</string>
+
+    <!-- Weather Metrics -->
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="uv_index">UV Index</string>
+    <string name="visibility">Visibility</string>
+    <string name="pressure">Pressure</string>
+    <string name="now">Now</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+
+    <!-- Value Formatting -->
+    <string name="humidity_value">%1$d%%</string>
+    <string name="wind_value">%1$.0f km/h</string>
+    <string name="temp_value_c">%1$d°C</string>
+    <string name="temp_value">%1$d°</string>
+    <string name="temp_range_value">%1$d° / %2$d°</string>
+    <string name="visibility_value">%1$.1f km</string>
+    <string name="pressure_value">%1$d hPa</string>
+    <string name="rain_chance_value">%1$d%%</string>
+
+    <!-- Error Messages -->
+    <string name="error_loading_weather">Unable to load weather</string>
+    <string name="error_no_internet">No internet connection.</string>
+    <string name="error_invalid_city">Invalid city name.</string>
+    <string name="error_invalid_api_key">Invalid API key.</string>
+    <string name="error_city_not_found">City not found.</string>
+    <string name="error_server">Server error.</string>
+    <string name="error_unknown">Something went wrong.</string>
+
+    <!-- Alerts and Notifications -->
+    <string name="weather_safety_tip">Stay safe and check the latest weather updates before travelling.</string>
+    <string name="heat_alert_title">🔥 Heat Alert - %1$s</string>
+    <string name="heat_alert_message">Current temperature is %1$d°C. Stay hydrated and avoid prolonged exposure to direct sunlight.</string>
+
+    <string name="alert_thunderstorm_title">⛈ Thunderstorm Alert</string>
+    <string name="alert_thunderstorm_message">Thunderstorm expected. Stay indoors and avoid outdoor activities.</string>
+    <string name="alert_heavy_rain_title">🌧 Heavy Rain Alert</string>
+    <string name="alert_heavy_rain_message">Heavy rain expected. Carry an umbrella and avoid waterlogged areas.</string>
+    <string name="alert_rain_title">☔ Rain Alert</string>
+    <string name="alert_rain_message">Rain expected today. Carry an umbrella.</string>
+    <string name="alert_cyclone_title">🌪 Cyclone Warning</string>
+    <string name="alert_cyclone_message">Cyclone warning. Avoid travelling unless necessary.</string>
+    <string name="alert_snow_title">❄ Snow Alert</string>
+    <string name="alert_snow_message">Snowfall expected. Drive carefully.</string>
+
+    <!-- Update Status -->
+    <string name="updated_today">Updated Today • %1$s</string>
+    <string name="updated_yesterday">Updated Yesterday • %1$s</string>
+    <string name="updated_at">Updated %1$s • %2$s</string>
+
+    <!-- Notification Channels -->
+    <string name="channel_weather_alerts">Weather Alerts</string>
+
+    <!-- Weather Conditions -->
+    <string name="cond_sun">sun</string>
+    <string name="cond_clear">clear</string>
+    <string name="cond_cloud">cloud</string>
+    <string name="cond_rain">rain</string>
+    <string name="cond_drizzle">drizzle</string>
+    <string name="cond_storm">storm</string>
+    <string name="cond_thunder">thunder</string>
+    <string name="cond_snow">snow</string>
+    <string name="cond_mist">mist</string>
+    <string name="cond_fog">fog</string>
+</resources>
