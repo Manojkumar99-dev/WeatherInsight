@@ -23,38 +23,29 @@ A modern Android Weather application built using **Kotlin**, **Jetpack Compose**
 
 ## 📸 Screenshots
 
-### Splash Screen
-![Splash Screen](screenshots/splash.png)
+<p align="center">
+  <img src="screenshots/splash.png" width="220" alt="Splash Screen"/>
+  <img src="screenshots/home.png" width="220" alt="Home Screen"/>
+  <img src="screenshots/search.png" width="220" alt="Search Weather"/>
+</p>
 
-### Home Screen
-![Home Screen](screenshots/home.png)
+<p align="center">
+  <img src="screenshots/hourly_forecast.png" width="220" alt="Hourly Forecast"/>
+  <img src="screenshots/weekly_forecast.png" width="220" alt="Weekly Forecast"/>
+  <img src="screenshots/weather_detail.png" width="220" alt="Weather Details"/>
+</p>
 
-### Search Weather
-![Search Weather](screenshots/search.png)
+<p align="center">
+  <img src="screenshots/weather_alert.png" width="220" alt="Weather Alert"/>
+  <img src="screenshots/offline_data.png" width="220" alt="Offline Data"/>
+  <img src="screenshots/weather_notification.png" width="220" alt="Weather Notification"/>
+</p>
 
-### Hourly Forecast
-![Hourly Forecast](screenshots/hourly_forecast.png)
+<p align="center">
+  <img src="screenshots/notification_permission.png" width="220" alt="Notification Permission"/>
+  <img src="screenshots/weather_notification_on_home.png" width="220" alt="Weather Notification on Home"/>
+</p>
 
-### Weekly Forecast
-![Weekly Forecast](screenshots/weekly_forecast.png)
-
-### Weather Details
-![Weather Details](screenshots/weather_detail.png)
-
-### Weather Alert
-![Weather Alert](screenshots/weather_alert.png)
-
-### Offline Data (Cached)
-![Offline Data](screenshots/offline_data.png)
-
-### Notification Permission
-![Notification Permission](screenshots/notification_permission.png)
-
-### Weather Notification
-![Weather Notification](screenshots/weather_notification.png)
-
-### Weather Notification on Home Screen
-![Weather Notification on Home Screen](screenshots/weather_notification_on_home.png)
 
 ---
 
